@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+h1:hover{
+ color:aquamarine !important;
+}
+
+a {
+    color: white !important;
+    text-decoration: none !important;
+    background-color: transparent;
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+a:hover {
+    color:aquamarine !important;
+}
+.nav-item {
+background-color: transparent;
+}
