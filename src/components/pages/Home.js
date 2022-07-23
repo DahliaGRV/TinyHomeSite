@@ -9,16 +9,16 @@ export default function Home() {
             image:"/Slider1.jpg",
         },
         {
-            image:"/Slider2.jpg",
+            image:"/TinyHome18.png",
         },
         {
-            image:"/Slider3.jpg",
+            image:"/TinyHome20.jpg",
         },
         {
-            image:"/TinyHome4.jpg",
+            image:"/TinyHome19.png",
         },
         {
-            image:"/TinyHome1.jpg",
+            image:"/TinyHome21.jpg",
         }
     ]
       const slideNumberStyle = {
@@ -52,7 +52,7 @@ export default function Home() {
               thumbnailWidth="100px"
               style={{
                 textAlign: "center",
-                maxWidth: "850px",
+                maxWidth: "68vw",
                 maxHeight: "500px",
                 margin: "40px auto",
               }}
