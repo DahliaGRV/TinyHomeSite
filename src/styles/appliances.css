@@ -10,6 +10,7 @@
     align-items: center;
     justify-content:center;
     overflow: hidden;
+    margin-top: 8%;
   }
 
   
@@ -27,6 +28,18 @@
     }
   }
 
+  h3 {
+    padding: 0;
+    color: yellow;
+    font-family: 'Space Grotesk', sans-serif;
+    line-height: 0%;
+    margin-bottom: 0%;
+
+  }
+
+  h3:hover{
+    color: white;
+  }
   .cardImages {
     width: 100%;
     height: auto;

@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-    color:aquamarine !important;
+    color:rgb(192, 174, 7)!important;
 }
 .nav-item {
 background-color: transparent;
